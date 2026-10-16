@@ -6,7 +6,7 @@
 
 ## Get help
 
-Found a bug or have a question? [Open an issue](https://github.com/ChrisMahlke/mahjong-support/issues/new) with your iPhone model, iOS version and what happened.
+Found a bug or have a question? [Open an issue](https://github.com/ChrisMahlke/mahjong/issues/new) with your iPhone model, iOS version and what happened.
 
 ## Privacy policy
 
